@@ -14,7 +14,7 @@ import static org.slf4j.LoggerFactory.getLogger;
 
 /**
  * Demonstrate that Mapping do work with transient dependencies.
- * ObjectMapper in different versions.
+ * ObjectMapper in different versions of jackson-databind.
  */
 public class JsonDemo {
     private static final Logger log = getLogger(JsonDemo.class);
